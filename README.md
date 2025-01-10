@@ -28,7 +28,6 @@ Before running this project, make sure you have the following installed:
 2.  Navigate to the project directory:
 
     bash
-    Copy code
     cd todo-list-react
 
 3. install dependencies
