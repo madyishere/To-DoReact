@@ -31,7 +31,9 @@ Before running this project, make sure you have the following installed:
     cd todo-list-react
 
 3. install dependencies
+    ```bash
     npm install
 
 and run the application using
+   ```bash
     npm run dev
